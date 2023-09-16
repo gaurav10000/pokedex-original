@@ -1,0 +1,19 @@
+.pokemon-list-wrapper {
+    margin: 3rem auto;
+    text-align: center;
+}
+
+.pokemon-wrapper {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
+.controls{
+    margin: 2rem auto;
+}
+
+.controls > button {
+    margin: 1rem;
+    padding: 0.5rem;
+}

@@ -1,0 +1,36 @@
+.loading-wrapper{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    margin: 0 auto;
+}
+
+.circle-1{
+    width: 5rem;
+    height: 5rem;
+    background-color: brown;
+    border-radius: 50%;
+    margin: 0 1rem;
+}
+.circle-2{
+    width: 5rem;
+    height: 5rem;
+    background-color: brown;
+    border-radius: 50%;
+    margin: 0 1rem;
+}
+.circle-3{
+    width: 5rem;
+    height: 5rem;
+    background-color: brown;
+    border-radius: 50%;
+    margin: 0 1rem;
+}
+.circle-4{
+    width: 5rem;
+    height: 5rem;
+    background-color: brown;
+    border-radius: 50%;
+    margin: 0 1rem;
+}
